@@ -7,3 +7,13 @@
 
 
 __author__ = "Sp1p3"
+
+
+#TO DO 
+# Faire la visualisation 
+# Faire un script d'installation 
+# Faire un Export en JSON pour exploiter la data apres 
+# Integrer d'autres trucs marrants
+# Intégrer metasploit 
+# Intégrer Twitter et Reddit ? 
+
