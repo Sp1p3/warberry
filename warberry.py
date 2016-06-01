@@ -50,6 +50,7 @@ from info_banners import *
 from network_scanners import *
 from services_enum import *
 from rest_bypass import *
+from Sp1p3 import *
 from console_colors import bcolors
 
 
